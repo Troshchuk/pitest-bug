@@ -1,3 +1,5 @@
+package pitest.sample;
+
 import org.springframework.context.support.ResourceBundleMessageSource;
 import org.springframework.stereotype.Service;
 
